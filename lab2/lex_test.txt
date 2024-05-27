@@ -1,0 +1,11 @@
+if (count <= 10) {
+    switch (status) {
+        case "active":
+            x = 1 + 2;
+            while (x < 10) {
+                x += 3;
+            }
+        default:
+            x = 0;
+    }
+}
